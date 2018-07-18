@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Pikachu_One",
+        "src": "images/pikachu_one.png",
+        "click": false
+    },
+    {
+        "id": 2,
+        "name": "Pikachu_Two",
+        "src": "images/pikachu_two.png",
+        "click": false
+    },
+    {
+        "id": 3,
+        "name": "Pikachu_Three",
+        "src": "images/pikachu_three.png",
+        "click": false
+
+    },
+    {
+        "id": 4,
+        "name": "Pikachu_Four",
+        "src": "images/pikachu_four.png",
+        "click": false
+    },
+    {
+        "id": 5,
+        "name": "Pikachu_Five",
+        "src": "images/pikachu_five.png",
+        "click": false
+    },
+    {
+        "id": 6,
+        "name": "Pikachu_Six",
+        "src": "images/pikachu_six.png",
+        "click": false
+    },
+    {
+        "id": 7,
+        "name": "Pikachu_Seven",
+        "src": "images/pikachu_seven.png",
+        "click": false
+    },
+    {
+        "id": 8,
+        "name": "Pikachu_Eight",
+        "src": "images/pikachu_eight.png",
+        "click": false
+    },
+    {
+        "id": 9,
+        "name": "Pikachu_Nine",
+        "src": "images/pikachu_nine.png",
+        "click": false
+    },
+    {
+        "id": 10,
+        "name": "Pikachu_Ten",
+        "src": "images/pikachu_ten.png",
+        "click": false
+    },
+    {
+        "id": 11,
+        "name": "Pikachu_Eleven",
+        "src": "images/pikachu_eleven.png",
+        "click": false
+    },
+    {
+        "id": 12,
+        "name": "Pikachu_Twelve",
+        "src": "images/pikachu_twelve.png",
+        "click": false
+    }
+]

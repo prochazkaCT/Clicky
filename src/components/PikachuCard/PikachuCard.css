@@ -1,0 +1,15 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.card > .img-container {
+  width: 90%;
+  height: 90%;
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  margin: 10px 10px;
+}
