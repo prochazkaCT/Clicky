@@ -3,5 +3,5 @@ A clicky memory game created using React with Create React App. The game used 12
 
 The game can be played at: https://secure-castle-62797.herokuapp.com/
 
-**Here is a screen shot: **
+**Here is a screen shot:**
 ![PikachuGame](/public/images/Pikachu_index.png)
